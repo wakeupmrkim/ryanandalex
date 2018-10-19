@@ -1,0 +1,63 @@
+{
+  "layerStyles" : {
+    "objects" : [
+
+    ],
+    "_class" : "sharedStyleContainer"
+  },
+  "assets" : {
+    "gradients" : [
+
+    ],
+    "colors" : [
+
+    ],
+    "_class" : "assetCollection",
+    "imageCollection" : {
+      "images" : {
+
+      },
+      "_class" : "imageCollection"
+    },
+    "images" : [
+
+    ]
+  },
+  "pages" : [
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/D14CAAE7-92F3-4728-99E6-B9039E0068D8"
+    }
+  ],
+  "foreignSymbols" : [
+
+  ],
+  "currentPageIndex" : 0,
+  "_class" : "document",
+  "foreignLayerStyles" : [
+
+  ],
+  "colorSpace" : 0,
+  "layerTextStyles" : {
+    "objects" : [
+
+    ],
+    "_class" : "sharedTextStyleContainer"
+  },
+  "layerSymbols" : {
+    "objects" : [
+
+    ],
+    "_class" : "symbolContainer"
+  },
+  "do_objectID" : "EEF4F79D-9643-420F-AFAC-C1EA8F0A7EC9",
+  "foreignTextStyles" : [
+
+  ],
+  "userInfo" : {
+    "com.plant.plantplugin" : {
+      "plant_doc_id" : "70A08B07-8173-440A-9415-0502BA301E6E"
+    }
+  }
+}

@@ -21,6 +21,7 @@
   },
   "version" : 112,
   "fonts" : [
+    "SFProDisplay-Heavy",
     "SFProDisplay-Semibold"
   ],
   "compatibilityVersion" : 99,

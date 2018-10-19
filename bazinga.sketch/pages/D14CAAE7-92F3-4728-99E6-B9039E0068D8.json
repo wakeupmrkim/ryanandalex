@@ -445,6 +445,121 @@
           "booleanOperation" : -1,
           "resizingConstraint" : 47,
           "automaticallyDrawOnUnderlyingPath" : false
+        },
+        {
+          "isFlippedHorizontal" : false,
+          "style" : {
+            "_class" : "style",
+            "miterLimit" : 10,
+            "do_objectID" : "49E34215-D9CF-49A0-980A-AFA46833D6EE",
+            "startMarkerType" : 0,
+            "windingRule" : 1,
+            "textStyle" : {
+              "do_objectID" : "90CC507A-DFE3-4E4D-90FC-0404DA6BE812",
+              "_class" : "textStyle",
+              "verticalAlignment" : 0,
+              "encodedAttributes" : {
+                "MSAttributedStringFontAttribute" : {
+                  "attributes" : {
+                    "name" : "SFProDisplay-Semibold",
+                    "size" : 13
+                  },
+                  "_class" : "fontDescriptor"
+                },
+                "MSAttributedStringColorAttribute" : {
+                  "red" : 0.40000000000000002,
+                  "_class" : "color",
+                  "alpha" : 1,
+                  "blue" : 0.40000000000000002,
+                  "green" : 0.40000000000000002
+                },
+                "kerning" : 0,
+                "textStyleVerticalAlignmentKey" : 0,
+                "paragraphStyle" : {
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "_class" : "paragraphStyle",
+                  "alignment" : 0
+                }
+              }
+            },
+            "endMarkerType" : 0
+          },
+          "glyphBounds" : "{{0, 2}, {72, 11}}",
+          "frame" : {
+            "_class" : "rect",
+            "height" : 15,
+            "constrainProportions" : false,
+            "do_objectID" : "8AEFD931-9FCA-48AB-A6EF-6915DBAF2A81",
+            "x" : 132,
+            "width" : 72,
+            "y" : 148
+          },
+          "do_objectID" : "FE5BFED5-2D4D-47DD-82E8-96617940D704",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "do_objectID" : "81CFE76B-AC5E-4FA4-9E24-07F09C2F2C24",
+            "includedLayerIds" : [
+
+            ],
+            "_class" : "exportOptions",
+            "layerOptions" : 0,
+            "exportFormats" : [
+
+            ]
+          },
+          "rotation" : 0,
+          "dontSynchroniseWithSymbol" : false,
+          "lineSpacingBehaviour" : 2,
+          "textBehaviour" : 0,
+          "isFlippedVertical" : false,
+          "clippingMaskMode" : 0,
+          "name" : "#Notfication",
+          "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
+          "resizingType" : 0,
+          "isLocked" : false,
+          "attributedString" : {
+            "attributes" : [
+              {
+                "length" : 12,
+                "_class" : "stringAttribute",
+                "attributes" : {
+                  "MSAttributedStringFontAttribute" : {
+                    "attributes" : {
+                      "name" : "SFProDisplay-Semibold",
+                      "size" : 13
+                    },
+                    "_class" : "fontDescriptor"
+                  },
+                  "MSAttributedStringColorAttribute" : {
+                    "red" : 0.40000000000000002,
+                    "_class" : "color",
+                    "alpha" : 1,
+                    "blue" : 0.40000000000000002,
+                    "green" : 0.40000000000000002
+                  },
+                  "kerning" : 0,
+                  "textStyleVerticalAlignmentKey" : 0,
+                  "paragraphStyle" : {
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "_class" : "paragraphStyle",
+                    "alignment" : 0
+                  }
+                },
+                "location" : 0
+              }
+            ],
+            "_class" : "attributedString",
+            "string" : "#Notfication"
+          },
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "text",
+          "booleanOperation" : -1,
+          "resizingConstraint" : 47,
+          "automaticallyDrawOnUnderlyingPath" : false
         }
       ],
       "nameIsFixed" : false,

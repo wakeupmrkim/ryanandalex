@@ -149,14 +149,14 @@
             "startMarkerType" : 0,
             "endMarkerType" : 0
           },
-          "glyphBounds" : "{{0, 2}, {90, 13}}",
+          "glyphBounds" : "{{0, 2}, {145, 13}}",
           "frame" : {
             "x" : 70,
             "y" : 25,
             "_class" : "rect",
             "constrainProportions" : false,
             "height" : 15,
-            "width" : 90
+            "width" : 146
           },
           "do_objectID" : "AED5F8C2-4D6D-414D-81E3-89A7986309BC",
           "layerListExpandedType" : 0,
@@ -177,7 +177,7 @@
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
           "clippingMaskMode" : 0,
-          "name" : "testing for Alex.",
+          "name" : "Alex updated the fir",
           "isVisible" : true,
           "hasClippingMask" : false,
           "nameIsFixed" : false,
@@ -186,7 +186,7 @@
           "attributedString" : {
             "attributes" : [
               {
-                "length" : 17,
+                "length" : 27,
                 "_class" : "stringAttribute",
                 "attributes" : {
                   "MSAttributedStringFontAttribute" : {
@@ -215,7 +215,7 @@
               }
             ],
             "_class" : "attributedString",
-            "string" : "testing for Alex."
+            "string" : "Alex updated the first line"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,

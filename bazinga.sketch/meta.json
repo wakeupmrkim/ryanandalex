@@ -1,24 +1,6 @@
 {
   "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-  "pagesAndArtboards" : {
-    "D14CAAE7-92F3-4728-99E6-B9039E0068D8" : {
-      "name" : "Page 1",
-      "artboards" : {
-        "A2634B4A-0A43-4CAD-8963-FCF17308B9F4" : {
-          "name" : "Artboard 2 Copy"
-        },
-        "94BD28F3-189F-42AD-902D-A27AEE6560F4" : {
-          "name" : "Artboard"
-        },
-        "57185D3A-2C2A-44F3-9B2D-DA890698FBDB" : {
-          "name" : "another-view"
-        },
-        "A0866FBF-6EE2-4E45-B6C1-A58E9E153C69" : {
-          "name" : "Artboard 2"
-        }
-      }
-    }
-  },
+  "build" : 67145,
   "version" : 112,
   "fonts" : [
     "SFProDisplay-Heavy",
@@ -41,5 +23,23 @@
     "NONAPPSTORE.67145"
   ],
   "appVersion" : "52.2",
-  "build" : 67145
+  "pagesAndArtboards" : {
+    "D14CAAE7-92F3-4728-99E6-B9039E0068D8" : {
+      "name" : "Page 1",
+      "artboards" : {
+        "A2634B4A-0A43-4CAD-8963-FCF17308B9F4" : {
+          "name" : "Artboard 2 Copy"
+        },
+        "94BD28F3-189F-42AD-902D-A27AEE6560F4" : {
+          "name" : "Artboard"
+        },
+        "57185D3A-2C2A-44F3-9B2D-DA890698FBDB" : {
+          "name" : "another-view"
+        },
+        "A0866FBF-6EE2-4E45-B6C1-A58E9E153C69" : {
+          "name" : "Artboard 2"
+        }
+      }
+    }
+  }
 }

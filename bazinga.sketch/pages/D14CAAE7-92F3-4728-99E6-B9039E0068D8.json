@@ -334,6 +334,117 @@
           "booleanOperation" : -1,
           "resizingConstraint" : 47,
           "automaticallyDrawOnUnderlyingPath" : false
+        },
+        {
+          "isFlippedHorizontal" : false,
+          "style" : {
+            "textStyle" : {
+              "verticalAlignment" : 0,
+              "_class" : "textStyle",
+              "encodedAttributes" : {
+                "MSAttributedStringFontAttribute" : {
+                  "attributes" : {
+                    "name" : "SFProDisplay-Semibold",
+                    "size" : 13
+                  },
+                  "_class" : "fontDescriptor"
+                },
+                "MSAttributedStringColorAttribute" : {
+                  "red" : 0.40000000000000002,
+                  "_class" : "color",
+                  "alpha" : 1,
+                  "blue" : 0.40000000000000002,
+                  "green" : 0.40000000000000002
+                },
+                "kerning" : 0,
+                "textStyleVerticalAlignmentKey" : 0,
+                "paragraphStyle" : {
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "_class" : "paragraphStyle",
+                  "alignment" : 0
+                }
+              }
+            },
+            "windingRule" : 1,
+            "_class" : "style",
+            "miterLimit" : 10,
+            "startMarkerType" : 0,
+            "endMarkerType" : 0
+          },
+          "glyphBounds" : "{{0, 2}, {49, 11}}",
+          "frame" : {
+            "x" : 74,
+            "y" : 148,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 15,
+            "width" : 49
+          },
+          "do_objectID" : "1AA43CD9-863B-402D-8275-A22CFAF12BAD",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "rotation" : 0,
+          "dontSynchroniseWithSymbol" : false,
+          "lineSpacingBehaviour" : 2,
+          "textBehaviour" : 0,
+          "isFlippedVertical" : false,
+          "clippingMaskMode" : 0,
+          "name" : "#MeToo",
+          "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
+          "resizingType" : 0,
+          "isLocked" : false,
+          "attributedString" : {
+            "attributes" : [
+              {
+                "length" : 6,
+                "_class" : "stringAttribute",
+                "attributes" : {
+                  "MSAttributedStringFontAttribute" : {
+                    "attributes" : {
+                      "name" : "SFProDisplay-Semibold",
+                      "size" : 13
+                    },
+                    "_class" : "fontDescriptor"
+                  },
+                  "MSAttributedStringColorAttribute" : {
+                    "red" : 0.40000000000000002,
+                    "_class" : "color",
+                    "alpha" : 1,
+                    "blue" : 0.40000000000000002,
+                    "green" : 0.40000000000000002
+                  },
+                  "kerning" : 0,
+                  "textStyleVerticalAlignmentKey" : 0,
+                  "paragraphStyle" : {
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "_class" : "paragraphStyle",
+                    "alignment" : 0
+                  }
+                },
+                "location" : 0
+              }
+            ],
+            "_class" : "attributedString",
+            "string" : "#MeToo"
+          },
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "text",
+          "booleanOperation" : -1,
+          "resizingConstraint" : 47,
+          "automaticallyDrawOnUnderlyingPath" : false
         }
       ],
       "nameIsFixed" : false,
